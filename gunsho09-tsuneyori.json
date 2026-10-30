@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsuneyori",
  "yomi": "つねよりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "室町中期",
+  "author": "東常縁",
+  "desc": "歌人で古今伝授を宗祇に授けた東常縁の家集。四季・恋・雑に分けて題詠を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -4526,6 +4531,6 @@
   "poems": 400,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
